@@ -1,5 +1,8 @@
-# Weather-App
+# Weather App
+<h3>visit: https://aokmen.github.io/Weather-App</h3>
+<img alt="alt_text" src="./weather.gif"/>
 
+## Description:
 This project is a Weather App that allows users to search for weather information of different cities. Users can enter a city name or use their current location to retrieve the weather data.
 
 ## HTML Structure
